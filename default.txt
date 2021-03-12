@@ -1,0 +1,11 @@
+-------------------------------------------------
+This is the default text file for db_convert.
+
+If you are getting this file, that could mean
+you did not input your own file name after the
+flag "-file ".
+
+Please make sure to double check your shell code.
+
+Thank you for using db_convert.
+-------------------------------------------------
